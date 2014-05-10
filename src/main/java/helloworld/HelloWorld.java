@@ -28,6 +28,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
+ * L2SW簡易実装
  * PACKET-INに対する処理を行う
  */
 public class HelloWorld implements IListenDataPacket {
