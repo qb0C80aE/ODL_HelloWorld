@@ -52,7 +52,7 @@
       <artifactId>switchmanager</artifactId>
       <version>0.5.0</version>
     </dependency>
-    <!-- データ処理にSALが必要(執筆時現在は0.7.0が最新) -->
+    <!-- データ処理にSALが必要 -->
     <dependency>
       <groupId>org.opendaylight.controller</groupId>
       <artifactId>sal</artifactId>
