@@ -224,7 +224,7 @@ public class HelloWorld implements IListenDataPacket {
     }
 
     @Override
-    public synchronized PacketResult receiveDataPacket(RawPacket inPkt) {
+    public PacketResult receiveDataPacket(RawPacket inPkt) {
 
         try {
 
